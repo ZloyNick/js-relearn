@@ -1,0 +1,12 @@
+{
+  "name": "arr_module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "../task1/Task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
